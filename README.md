@@ -6,9 +6,7 @@
 
 ## <a name="Data_Set"></a> Data Set 
 
-This dataset contains daily weather observations from numerous Australian weather stations. Observations were drawn from numerous weather stations. The daily observations are available at http://www.bom.gov.au/climate/data. Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
-
-The raw data utilized to make the model was harvested from Multiple Listing Services. The data set was harvested with MTurk and it is a raw download from their website. Mainly zip codes from mainland Queens, leaving out the Rockaways, a peninsula near JFK airport that is geographically distinct from the rest of the neighborhoods, with a total of 55 zipcodes from Queens, NY. Data cleaning was performed in order to improve the dataset.
+The raw data were drawn from Multiple Listing Services. The data set was harvested with MTurk and it is a raw download from their website. Mainly zip codes from mainland Queens, leaving out the Rockaways, a peninsula near JFK airport that is geographically distinct from the rest of the neighborhoods, with a total of 55 zipcodes from Queens, NY. Data cleaning was performed in order to improve the dataset.
 
 This dataset partly represents the population of interest because this is a fairly small sample size of Queens. Certain zipcodes have just a few observations in comparison to the other zipcodes that have a larger size of obsevations.
 External sources were not use in this project, but featurization was done using the provided dataset. 
