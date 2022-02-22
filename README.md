@@ -62,4 +62,4 @@ Three different models were used to predict on prices to calculate best outcome 
 
 - Regression Tree Modeling: The were only six variable used for spliting; therefore it was not accurate for prediction on sale prices (The purpose of this model is to show the difference between Regression Trees and Random Forest Modeling)
 - Linear Modeling: in sample R^2 = 84 and out of sample R^2 = 85; The RMSE is plus or minus $83215.95
-- Random Forest Modeling: in sample R^2 = 84 and out of sample R^2 = 85; The RMSE is plus or minu $70000
+- Random Forest Modeling: in sample R^2 = 84 and out of sample R^2 = 85; The RMSE is plus or minus $70000
